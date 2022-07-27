@@ -1,0 +1,57 @@
+.filetype-mh_mail{
+	position:relative;
+}
+
+.filetype-mh_mail .modal,
+.filetype-mh_mail .mh-mail-frame{
+	text-align: initial;
+}
+
+.filetype-mh_mail div.mh-mail-box{
+	vertical-align:middle;
+	cursor: pointer;
+}
+
+.filetype-mh_mail .form-control,
+.filetype-mh_mail .modal .mh-mail-send {
+    width: 100%;
+}
+
+.filetype-mh_mail input.form-control {
+    padding-left: 2.3em;
+}
+
+.filetype-mh_mail .form-group {
+	position: relative;
+}
+
+.filetype-mh_mail .form-group i {
+	position: absolute;
+	left: 0.4em;
+    top: 1.2em;
+    font-size: 1.5em;
+    cursor: unset;
+}
+
+.filetype-mh_mail .recaptcha-container {
+	width: 170px;
+	height: 85px;
+}
+
+
+/*** TS Loader support ***********************/
+#loading1 {
+	position: fixed;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	background: #fff;
+	background: rgba(255, 255, 255, 0.3);
+	text-align: center;
+}
+
+#loading1 i {
+	position: absolute;
+	top: 40%;
+}
