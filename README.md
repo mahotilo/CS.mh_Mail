@@ -1,5 +1,5 @@
 ![](_types/mh_mail/ui_icon.png)
-# [mh_Mail (mh Mail form)](https://github.com/mahotilo/CS.mh_Mail) - Mail form with advanced settings
+# [mh_Mail](https://github.com/mahotilo/CS.mh_Mail) - Mail form with advanced settings
 ## Section type for CustomSections plugin (Typesetter CMS)
 
 ## About
@@ -25,7 +25,7 @@ or plain mail form. The sender's contact can be an email or phone number with fi
 
 
 ## Demo
-### Button
+### Plain mail form
 ![image](demo/embedded.png)
 
 ### Dialog
